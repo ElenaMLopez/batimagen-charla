@@ -30,7 +30,14 @@ La motivación para dar esta charla es mostrar una herramienta que es Open Sourc
 Bio de los ponenetes:
 
   - Elena Mateos López:
-    Since my childhood, I always was interested in technology. Finally I started to program after studied the Adalab's course about one year and a half ago. Actually I'm working in Next Chance company like frontend developer, and in continuous studies about cybersecurity and programming in Node and JS. This is my passion and I really enjoy learning, so I will have a plenty hours of fun. For me the cibersecurity is the most fun part of technology, so the next yerars I will learn about it.
+    Since my childhood, I always was interested in technology. Finally I started to program after studied the Adalab's course about one year and a half ago. Actually I'm working in Next Chance company like frontend developer, and in continuous studies about cybersecurity and programming in Node and JS. I'm an active member from OSW and learn in the Red Tema Guild. This is my passion and I really enjoy learning, so I will have a plenty hours of fun. For me the cibersecurity is the most fun part of technology, so the next yerars I will learn about it.
 
   - Francisco Tomás Valdesoiro Gil:
+  
+     After work in others sectors, I decided 
+  
+  -estudia Desarrollo de aplicaciones multiplataforma
+  - le interesa mucho la realidad aumentada y ha jugado con Unity
+  - trabajo como desarrollador de .NET 
+  - Me estoy formando en ciberseuridad y pertenezco al Red Team de OSW donde practicamos pentesting
   

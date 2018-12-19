@@ -20,7 +20,7 @@
 
 ### Texto:
 
-La extracción de metadatos, es una tecnica básica dentro del análisis forénsico de imágenes. Hace tiempo había una herramienta bastante conocida, pero a parte de que solo funcionaba para windows se convirtio en una herramienta de pago, por lo que mucho usuarios decidieron dejar de utilizarla. 
+La extracción de metadatos, es una tecnica básica dentro del análisis forénsico de imágenes.
 Hoy en día hay varias herramientas para realizar diferentes análisis, pero se encuentran separadas, con Batimagen lo que hemos hecho ha sido reunir varias de estas herramientas en una sóla, que funciona en local con tecnología de server render, y que permite realizar análisis de metadatos, así como, gracias a la API de reconocimiento de imagen de Google, obtener información de esta imagen tras un análisis mediante IA y un rastreo en internet.
 
 La charla que proponemos, está dividida en dos partes fundamentales. Una explicación de que son los metadatos y dónde los encontramos, qué es la herramienta, cómo funciona y como se instala; y otra parte práctica para mostrar como realizar el proceso de instalación, alta en la API de Google y una demo de su funcionamiento con el análisis de una imagen. 

@@ -23,6 +23,14 @@
 La extracción de metadatos, es una tecnica básica dentro del análisis forénsico de imágenes.
 Hoy en día hay varias herramientas para realizar diferentes análisis, pero se encuentran separadas, con Batimagen lo que hemos hecho ha sido reunir varias de estas herramientas en una sóla, que funciona en local con tecnología de server render, y que permite realizar análisis de metadatos, así como, gracias a la API de reconocimiento de imagen de Google, obtener información de esta imagen tras un análisis mediante IA y un rastreo en internet.
 
+The project uses the Phil Harvey's ExifTool, to extract metadata from the archives.
+
+It's make a virus analysis too, using the Virustotal web, to look for infections. If de are analizing an image, it's send to Google vision API, to find similar images at the web, to make sentiments analysis, and detects some parametres, like texts, face detection...
+
+We are using Node.js and Pug ti make a server render app, runing Phoenix tool`, `OpenCV`, `Boots`, and we are givin a forensic analysis in order to know if the image was editing wiht Photoshop.
+
+
+
 La charla que proponemos, está dividida en dos partes fundamentales. Una explicación de que son los metadatos y dónde los encontramos, qué es la herramienta, cómo funciona y como se instala; y otra parte práctica para mostrar como realizar el proceso de instalación, alta en la API de Google y una demo de su funcionamiento con el análisis de una imagen. 
 
 La motivación para dar esta charla es mostrar una herramienta que es Open Source, que puede funcionar en cualquier sistema operativo así como una demostración de las aplicaciones que tiene en el análisis forénsico de imagenes y documentos.

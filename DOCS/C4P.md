@@ -47,6 +47,6 @@ Bio de los ponenetes:
   
      After work in others sectors, I decided 
      
-     I decided to studied Multiplattfomr App Development, because I love technologies, and now I work like a .NET developer in Madrid. I enjoy a lot the  augmented reality and sometimes I play with Unity. I'm an hard work guilder at OWS at my free time, and participate un the red team guild, where I'm learning about cibersecurity and pentesting.
+     I decided to studied Multiplattfomr App Development, because I love technologies, and now I work like a .NET developer in Madrid. I enjoy a lot the  augmented reality and sometimes I play with Unity. I'm an hard work guilder at OSW at my free time, and participate un the red team guild, where I'm learning about cibersecurity and pentesting.
 I like this last path, I see my future un cibersecurity un the Next years.
   

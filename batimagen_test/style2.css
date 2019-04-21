@@ -1,0 +1,54 @@
+/* 
+fonts: 
+h1: font-family: 'Orbitron', sans-serif;
+h3 & p: font-family: 'Inconsolata', monospace;
+ */
+
+body { 
+	/* color: rgb(0, 194, 0); */
+	background-color: black;
+  margin: 0;
+}
+
+h1, h2, h3,h4, h5, h6, p {
+	margin: 0;
+}
+
+p {
+	font-family: 'Inconsolata', monospace;
+	font-size: 3em;
+}
+
+
+
+div { 
+  text-align: center;
+  background-size: cover;
+}
+
+.revealing {
+	background-blend-mode: screen;
+	background: transparent;
+	color: transparent;
+	height: 100vh;
+	margin: 0 auto;
+	/* mix-blend-mode: darken; */
+	padding-top: 100px;
+	transition: all 4s ease;
+	width: 90%;
+}
+
+.revealing:hover {
+	color: green;
+}
+
+.dark {
+	/* background-image: url(./img/architecture-blue-bridge-421655.jpg); */
+	background-position-y: -159px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+
